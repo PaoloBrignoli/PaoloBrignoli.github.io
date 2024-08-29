@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Ciao! My name is Paolo Brignoli, and I am PhD Candidate at the
 [Agricultural Economics and Rural Policy](https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm){:target="_blank"} and [Business Economics](https://www.wur.nl/en/research-results/chair-groups/social-sciences/business-economics-group.htm){:target="_blank"} groups of
 [Wageningen University](https://www.wur.nl/){:target="_blank"}, The Netherlands. [Here](assets/CV.pdf){:target="_blank"} you can find my CV.

@@ -20,7 +20,8 @@ with [Alessandro Varacca](https://publires.unicatt.it/en/persons/alessandro-vara
 <b>Double machine learning staggered difference-in-difference</b> \
 with [Alessandro Varacca](https://publires.unicatt.it/en/persons/alessandro-varacca-2){:target="_blank"} and [Andrea Naghi](https://sites.google.com/view/anaghi/home){:target="_blank"}
 
-<b>DML-SDID: Double Machine Learning for Staggered Difference-in-Difference</b>
+<b>DML-SDID: Double Machine Learning for Staggered Difference-in-Difference</b> \
+_R Package_
 
 <b>Evaluating the impact of carbon taxation in Europe with a tree-based synthetic control method</b> \
 with [Andrea Naghi](https://sites.google.com/view/anaghi/home){:target="_blank"}, [Dalia Ghanem](https://are.ucdavis.edu/people/faculty/dalia-ghanem/){:target="_blank"} and [Boromeus W. Wanengkirtyo](https://uk.linkedin.com/in/bwanengkirtyo){:target="_blank"}

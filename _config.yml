@@ -4,4 +4,8 @@ title: Paolo Libenzio Brignoli
 email: paolo.brignoli at wur dot nl
 logo: /images/IMG_1721.png
 show downloads: false
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
